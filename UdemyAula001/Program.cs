@@ -35,7 +35,7 @@ namespace UdemyAula001
                 {                 
                     Console.WriteLine(rooms[n].ToString());
                 }
-
+            // new comment
             //Console.WriteLine(rooms[roomnum].ToString());
         }
     }
